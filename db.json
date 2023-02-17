@@ -17,6 +17,12 @@
       "text": "Pickup!!",
       "day": "May 10th at 1:30pm",
       "reminder": true
+    },
+    {
+      "text": "Demo Task",
+      "day": "june 22",
+      "reminder": false,
+      "id": 4
     }
   ]
 }

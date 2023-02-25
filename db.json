@@ -29,6 +29,12 @@
       "day": "may 5th at 11",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "deployment ",
+      "day": "22 february at 22:00IST",
+      "reminder": false,
+      "id": 6
     }
   ]
 }
